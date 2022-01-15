@@ -1,4 +1,4 @@
-# Startup Namer
+# Startup Namer in Flutter
 
 Android app that generates random names for startups.  
 Developed using Flutter, with Infinite Scroll feature.
